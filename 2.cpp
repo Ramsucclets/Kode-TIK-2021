@@ -8,4 +8,5 @@ int main()
 	cin >> nama;
 	cout << "Jenis warna : ";
 	cin >> warna;
+	cout << "ehe";
 }
