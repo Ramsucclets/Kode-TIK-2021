@@ -2,9 +2,7 @@
 
 using namespace std;
 int main (int argc,char const*argv[])
-{
- cout<<"nama kalian\n\n";
- 
+{ 
  char nama [20];
  int nilai, nilaiAkhir,T,UT, UA;
  cout<<"//--------------------------------//\n";
